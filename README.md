@@ -1,10 +1,7 @@
-# Chthonia
+# RAD-V
 
-Pronounced "Though-knee-ya", named after Chthonian planets, a hypothetical class
-of planets that are the remnant cores of gas giants.
-
-This will be a basic 5-stage pipelined RISC-V core, created purely for my own
-learning. It will support the RV32I ISA.
+Radiation Aware Design (RAD)-V is a RISC-V core designed to implement the full
+RV32I ISA and be radiation resiliant. It is currently a work in progress.
 
 # Pipeline structure
 
